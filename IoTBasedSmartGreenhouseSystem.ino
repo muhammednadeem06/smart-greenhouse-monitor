@@ -8,14 +8,14 @@
 // ─────────────────────────────────────────────
 // WIFI
 // ─────────────────────────────────────────────
-#define WIFI_SSID     "Nadeem16"
-#define WIFI_PASSWORD "fahad@1234"
+#define WIFI_SSID     "YOUR_SSID"
+#define WIFI_PASSWORD "YOUR_PASSWORD"
 
 // ─────────────────────────────────────────────
 // FIREBASE
 // ─────────────────────────────────────────────
 #define FIREBASE_HOST "https://studio-4871676974-e3e3d-default-rtdb.firebaseio.com"
-#define FIREBASE_API_KEY "AIzaSyCPQOimKWmedSAmH40jlmSVMdJZYGKNziA"
+#define FIREBASE_API_KEY "YOUR_API_KEY"
 
 // ─────────────────────────────────────────────
 // DHT11
